@@ -1,5 +1,4 @@
-# .github
-O1 Summit Hackathon Submission by Team 35 - Arun, Erina, Dipan
+## O1 Summit Hackathon Submission by Team 35 - Arun, Erina, Dipan
 
 
 Complete App Preview : https://project-sirius.lovable.app/
